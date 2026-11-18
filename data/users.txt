@@ -1,21 +1,21 @@
-
 1001|GreenKart|greenkart@gmail.com|green123|Noida|Startup|E-commerce|0
 1002|Aditi Sharma|aditi@gmail.com|aditi123|Noida|Investor|E-commerce|500000
 1003|Rahul Mehta|rahul@gmail.com|rahul123|Delhi|Investor|E-commerce|800000
 1004|Priya Verma|priya@gmail.com|priya123|Noida|Mentor|Technology|0
 1005|Startup Hub|hub@gmail.com|hub123|Delhi|Incubator|Technology|0
 1006|TechNova|technova@gmail.com|tech123|Bangalore|Startup|Technology|0
-1007|Arjun Kapoor|arjun@gmail.com|arjun123|Noida|Investor|Technology|1200000
+1007|Arjun Kapoor|arjun@gmail.com|arjun123|Noida|Investor|Technology|1.2e+006
 1008|Sneha Gupta|sneha@gmail.com|sneha123|Mumbai|Investor|Healthcare|700000
 1009|FoodieExpress|foodie@gmail.com|food123|Noida|Startup|FoodTech|0
 1010|Vikram Singh|vikram@gmail.com|vikram123|Delhi|Mentor|E-commerce|0
-1011|Neha Agarwal|neha@gmail.com|neha123|Bangalore|Investor|Technology|1500000
+1011|Neha Agarwal|neha@gmail.com|neha123|Bangalore|Investor|Technology|1.5e+006
 1012|EduSmart|edu@gmail.com|edu123|Delhi|Startup|EdTech|0
 1013|Rohan Malhotra|rohan@gmail.com|rohan123|Mumbai|Investor|FoodTech|900000
 1014|Ananya Rao|ananya@gmail.com|ananya123|Noida|Mentor|FoodTech|0
 1015|HealthPlus|health@gmail.com|health123|Mumbai|Startup|Healthcare|0
 1016|Delhi Startup Hub|delhihub@gmail.com|delhi123|Delhi|Incubator|E-commerce|0
 1017|Karan Patel|karan@gmail.com|karan123|Pune|Investor|EdTech|600000
-1018|Meera Joshi|meera@gmail.com|meera123|Noida|Investor|FoodTech|1100000
+1018|Meera Joshi|meera@gmail.com|meera123|Noida|Investor|FoodTech|1.1e+006
 1019|CloudBase|cloud@gmail.com|cloud123|Bangalore|Startup|Technology|0
 1020|Ishita Sen|ishita@gmail.com|ishita123|Kolkata|Investor|Healthcare|400000
+101|anuj|anuj@gmail.com|anuj123|noida|Startup|IT|0

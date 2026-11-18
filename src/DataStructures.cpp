@@ -114,8 +114,7 @@ void Graph::setSize(int size) {
 }
 
 void Graph::addConnection(int u, int v, int weight) {
-    if (u < 0 || v < 0 || u >= (int)adj.size() ||
-        v >= (int)adj.size() || u == v || weight < 0)
+    if (u < 0 || v < 0 || u >= (int)adj.size() || v >= (int)adj.size() || u == v || weight < 0)
         return;
 
     removeConnection(u, v);
